@@ -4,8 +4,7 @@
     <title>Tags on Olumee | Lumière vivante haute-fidélité</title>
     <link>https://www.olumee.com/tags/</link>
     <description>Recent content in Tags on Olumee | Lumière vivante haute-fidélité</description>
-    <generator>Hugo</generator>
-    <language>fr</language>
-    <atom:link href="https://www.olumee.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://www.olumee.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
