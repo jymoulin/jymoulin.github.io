@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){particlesJS("dust",{particles:{number:{value:600,density:{enable:!0,value_area:800}},color:{value:"#ffffff"},shape:{type:"circle"},opacity:{value:1,random:!0,anim:{enable:!1}},size:{value:30,random:!0,anim:{enable:!1}},move:{enable:!0,speed:.4,direction:"none",random:!0,straight:!1,bounce:!1}},retina_detect:!0})})
